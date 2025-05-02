@@ -1,0 +1,16 @@
+{
+  "name": "Phanindhar Telukuntla",
+  "short_name": "Phanindhar T.",
+  "description": "Personal portfolio website of Phanindhar Telukuntla",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#00e6ff",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ]
+}
